@@ -5,8 +5,7 @@ Using the OpenWeather API I created a dashboard that would allow a user to searc
 
 ## Javascript Quiz Homepage
 
-
-
+<img width="1427" alt="Screen Shot 2020-11-07 at 9 49 55 PM" src="https://user-images.githubusercontent.com/25594179/98458352-76d38b00-2144-11eb-9a87-c4a1aba1461f.png">
 
 ## License
 
